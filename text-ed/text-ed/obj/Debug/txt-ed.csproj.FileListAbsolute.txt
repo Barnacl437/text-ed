@@ -1,0 +1,9 @@
+C:\Users\terra\gits\text-ed\text-ed\text-ed\obj\Debug\txt-ed.csproj.AssemblyReference.cache
+C:\Users\terra\gits\text-ed\text-ed\text-ed\obj\Debug\text_ed.ed.resources
+C:\Users\terra\gits\text-ed\text-ed\text-ed\obj\Debug\text_ed.Properties.Resources.resources
+C:\Users\terra\gits\text-ed\text-ed\text-ed\obj\Debug\txt-ed.csproj.GenerateResource.cache
+C:\Users\terra\gits\text-ed\text-ed\text-ed\obj\Debug\txt-ed.csproj.CoreCompileInputs.cache
+C:\Users\terra\gits\text-ed\text-ed\text-ed\bin\Debug\text-ed.exe
+C:\Users\terra\gits\text-ed\text-ed\text-ed\bin\Debug\text-ed.pdb
+C:\Users\terra\gits\text-ed\text-ed\text-ed\obj\Debug\text-ed.exe
+C:\Users\terra\gits\text-ed\text-ed\text-ed\obj\Debug\text-ed.pdb
