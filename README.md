@@ -12,5 +12,5 @@ install VS2022 with .NET C# plugin smth smth idk, and open the text-ed.sln file,
 stay calm bro, find the exe in ```text-ed/obj/Debug``` and download it. 
 
 
-P/S: GitHub says every file they could detect was 100% written in C#, I'm new to this and also for fun so I didn't really know it was.
+P/S: GitHub says every file they could detect was 100% written in C#, I'm new to this and also for fun so I didn't really know it was. Maybe a typical Windows app can be written in C# tho.
 Also it requires .NET to run (minimum 2.0) so please install if didn't or run it in a stable Windows installation. WinPE does not have .NET by default so idk
