@@ -14,3 +14,5 @@ stay calm bro, find the exe in ```text-ed/obj/Debug``` and download it.
 
 P/S: GitHub says every file they could detect was 100% written in C#, I'm new to this and also for fun so I didn't really know it was. Maybe a typical Windows app can be written in C# tho.
 Also it requires .NET to run (minimum 2.0) so please install if didn't or run it in a stable Windows installation. WinPE does not have .NET by default so idk
+
+edit: Microsoft Windows PE builder or some other such tools may probably have an option for adding .NET redist installation inside your PE distro. If you want to include text-ed for use in your WPE, it is encouraged to add at least .NET 2.0 rt so it might work. I will have a test for it later.
