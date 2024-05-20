@@ -6,7 +6,7 @@ if you just want to use something that is not the default Notepad editor or anyt
 my first attempt to make a GUI app, am not a pro(crastinator) coder so if you can, you can contribute to it. thanks a bunch lmao
 
 ## Building procedure
-install VS2022 with .NET C# plugin smth smth idk, and open the text-ed.sln file, find the run button and it will automatically compile.
+install VS2022 with .NET C# plugin smth smth idk, and open the text-ed.sln file, find the run button and it will automatically compile. Build artifacts are in ```text-ed/obj/Debug/``` maybe ig.
 
 ### nah why do i need to compile stuff am lazy pls provide an exe aaaaa
 stay calm bro, find the exe in ```text-ed/obj/Debug``` and download it. 
