@@ -9,7 +9,7 @@ my first attempt to make a GUI app, am not a pro(crastinator) coder so if you ca
 install VS2022 with .NET C# plugin smth smth idk, and open the text-ed.sln file, find the run button and it will automatically compile. Build artifacts are in ```text-ed/obj/Debug/``` maybe ig.
 
 ### nah why do i need to compile stuff am lazy pls provide an exe aaaaa
-stay calm bro, find the exe in ```text-ed/obj/Debug``` and download it. 
+chill down mate, find the exe in ```text-ed/obj/Debug``` and download it. 
 
 
 P/S: It requires .NET to run (minimum 2.0) so please install ([here btw](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net35-sp1?wt.mc_id=install-docs)) if didn't or run it in a stable Windows installation. WinPE does not have .NET by default so idk
